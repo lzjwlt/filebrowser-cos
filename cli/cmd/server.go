@@ -9,11 +9,11 @@ import (
 	"path/filepath"
 
 	"github.com/asdine/storm"
-	filebrowser "github.com/filebrowser/filebrowser/lib"
-	"github.com/filebrowser/filebrowser/lib/bolt"
-	h "github.com/filebrowser/filebrowser/lib/http"
-	"github.com/filebrowser/filebrowser/lib/staticgen"
 	"github.com/hacdias/fileutils"
+	filebrowser "github.com/lzjwlt/filebrowser-cos/lib"
+	"github.com/lzjwlt/filebrowser-cos/lib/bolt"
+	h "github.com/lzjwlt/filebrowser-cos/lib/http"
+	"github.com/lzjwlt/filebrowser-cos/lib/staticgen"
 	"github.com/spf13/viper"
 	lumberjack "gopkg.in/natefinch/lumberjack.v2"
 )

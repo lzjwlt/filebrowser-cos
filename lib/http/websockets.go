@@ -12,8 +12,8 @@ import (
 	"strings"
 	"time"
 
-	fb "github.com/filebrowser/filebrowser/lib"
 	"github.com/gorilla/websocket"
+	fb "github.com/lzjwlt/filebrowser-cos/lib"
 )
 
 var upgrader = websocket.Upgrader{

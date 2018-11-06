@@ -3,7 +3,7 @@ package bolt
 import (
 	"github.com/asdine/storm"
 	"github.com/asdine/storm/q"
-	fb "github.com/filebrowser/filebrowser/lib"
+	fb "github.com/lzjwlt/filebrowser-cos/lib"
 )
 
 // ShareStore is a shareable links store.

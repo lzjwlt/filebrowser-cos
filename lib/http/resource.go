@@ -13,8 +13,8 @@ import (
 	"strings"
 	"time"
 
-	fb "github.com/filebrowser/filebrowser/lib"
 	"github.com/hacdias/fileutils"
+	fb "github.com/lzjwlt/filebrowser-cos/lib"
 )
 
 // sanitizeURL sanitizes the URL to prevent path transversal

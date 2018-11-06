@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	fb "github.com/filebrowser/filebrowser/lib"
 	"github.com/hacdias/fileutils"
+	fb "github.com/lzjwlt/filebrowser-cos/lib"
 	"github.com/mholt/archiver"
 )
 
